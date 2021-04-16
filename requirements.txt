@@ -1,0 +1,7 @@
+aiohttp
+colorama
+bs4
+requests
+image
+tkinter
+datetime
